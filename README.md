@@ -1,0 +1,2 @@
+# kidso
+kidso school website
